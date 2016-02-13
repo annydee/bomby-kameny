@@ -1,0 +1,2 @@
+# bomby-kameny
+sekery mačety
